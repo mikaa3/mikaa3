@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaa3
 - 👀 I’m interested in data visualization, GIS, maps and satellite images
-- 🌱 I’m currently learning Pyhon coding
+- 🌱 I’m currently learning Python, data analytics and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ❄️ SN id = 20374
 
